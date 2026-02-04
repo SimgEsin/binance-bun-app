@@ -5,9 +5,7 @@ Bu proje, **Bun** runtime ve **TypeScript** kullanılarak geliştirilmiş, Binan
 Bilgisayarınızda [Bun](https://bun.sh) kurulu olmalıdır.
 
 **Projeyi Klonlayın:**
-
-```bash
 git clone [https://github.com/KULLANICIADIN/binance-bun-app.git](https://github.com/SimgEsin/binance-bun-app.git)
 Uygulamayı Başlatın: Herhangi bir paket yüklemesine gerek yoktur. Doğrudan çalıştırın:
 bun index.ts
-```
+
